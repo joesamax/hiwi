@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "fr.alizescard.ophrysapp"
+        id          = "fr.hiwi.app"
         versionCode = "10"
         version     = "1.0.0.0" >
 
-	<name>Ophrys Beauty Shop</name>
+	<name>Hair Indian West Indies</name>
 
-	<description>L’éssentiel est de vous satisfaire</description>
+	<description>Beauté, Cosmétiques</description>
 
 	<author href="" email=""></author>
 
@@ -32,7 +32,7 @@
 	<plugin name="cordova-plugin-device" source="npm" />
 	<plugin name="cordova-plugin-statusbar" source="npm" />
 	<plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.4" source="git" />
-        <content src="https://ophrys-beaute.fr/oprhysapp/" />
+        <content src="https://adapp.alizesdeveloppement.fr/hiwi/" />
 
 	<!-- Whitelist policy  -->
 	<access origin="*" />
